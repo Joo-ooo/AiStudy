@@ -38,7 +38,7 @@ This Project is created with love from these wonderful developers :stars:
         </tr>
         <tr>
             <td align="center" valign="top" ><a href="https://tenor.com/j3qyRzIODED.gif"><img src="/images/Joo.JPG" width="100px;" height="135px;" alt="Joo"/><br /><sub><b>Joo</b></a><br><b style="font-size:0.9em;">Scrum Master</b></td>
-            <td align="center" valign="top" ><a href="https://tenor.com/j3qyRzIODED.gif"><img src="/images/JanitorIsMe.jpg" width="100px;" height="135px;" alt="Alan"/><br /><sub><b>Alan</b></a><br><b style="font-size:0.9em;">Janitor</b></td>
+            <td align="center" valign="top" ><a href="https://tenor.com/j3qyRzIODED.gif"><img src="/images/JanitorIsMe.jpg" width="100px;" height="135px;" alt="Alan"/><br /><sub><b>Alan</b></a><br><b style="font-size:0.9em;">Developer</b></td>
         </tr>
     </tbody>
 </table>    
